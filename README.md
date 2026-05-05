@@ -1,15 +1,24 @@
 # Hi, I'm Nitika Bhandari 👋
 
-🎓 Healthcare Data Nalyst | 💻 Full Stack Developer | 🏥 Healthcare Tech
-
-I build AI-powered applications focused on healthcare, data analysis, 
-and real-world problem solving.
+🎓 MS Healthcare Management & Informatics — Kennesaw State University (May 2026)  
+💼 Healthcare Data Analyst | Epic EHR | FHIR | SQL · Python · Power BI  
+🏥 I build AI-powered healthcare applications that bridge clinical operations and data analytics  
+📍 Jonesboro, GA
 
 ---
 
-## 🚀 Projects
+I'm a Healthcare Data Analyst with hands-on Epic EHR experience and a passion 
+for solving real clinical problems through technology. My projects span AI bed 
+management systems, FHIR-compliant EHR backends, Google AI hackathon builds, 
+and Power BI dashboards analyzing 54,000+ records across 194 countries.
 
-### 🏥 NovaCare EHR — AI Bed Placement System
+Currently completing my MS in Healthcare Informatics while working as a 
+Graduate Research Assistant at KSU, and building toward my PL-300 and CHDA certifications.
+---
+
+## Projects
+
+### NovaCare EHR — AI Bed Placement System
 > Pure HTML · CSS · JavaScript
 - AI-powered Emergency Department bed management system
 - 6-factor AI bed assignment engine
@@ -31,7 +40,7 @@ and real-world problem solving.
 
 ---
 
-### 🔬 OpenEMR FHIR API — EHR Backend
+###  OpenEMR FHIR API — EHR Backend
 > Python · FastAPI · FHIR HL7 · Uvicorn
 - FHIR HL7-compliant REST API for patient records
 - Full CRUD operations on patient data
@@ -42,7 +51,7 @@ and real-world problem solving.
 
 ---
 
-### 📊 COVID-19 Global Dashboard
+###  COVID-19 Global Dashboard
 > Microsoft Power BI · Power Query · CSV
 - Global overview of cases, deaths and recoveries
 - Country deep dive with side by side comparisons
@@ -52,7 +61,7 @@ and real-world problem solving.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -64,7 +73,7 @@ and real-world problem solving.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nitika-v-b-2a6221345/)
 - 📧 BHANDARINITIKA@YAHOO.COM
