@@ -1,6 +1,6 @@
-# Hi, I'm Nbhandari 👋
+# Hi, I'm Nitika Bhandari 👋
 
-🎓 Computer Science Student | 💻 Full Stack Developer | 🏥 Healthcare Tech
+🎓 Healthcare Data Nalyst | 💻 Full Stack Developer | 🏥 Healthcare Tech
 
 I build AI-powered applications focused on healthcare, data analysis, 
 and real-world problem solving.
@@ -38,7 +38,7 @@ and real-world problem solving.
 - Auto-generated Swagger UI for interactive API docs
 - Pre-seeded with realistic patient records
 
-**[▶ Live API](https://openemr-fhir.onrender.com)** · **[▶ API Docs](https://openemr-fhir.onrender.com/docs)** · **[📁 Repo](https://github.com/Nbhandari3/openemr-fhir)**
+**[▶ Live API](https://openemr-fhir-1.onrender.com)** · **[▶ API Docs](https://openemr-fhir-1.onrender.com/docs)** · **[📁 Repo](https://github.com/Nbhandari3/openemr-fhir)**
 
 ---
 
@@ -66,5 +66,5 @@ and real-world problem solving.
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 YOUR_PERSONAL_EMAIL
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitika-v-b-2a6221345/)
+- 📧 BHANDARINITIKA@YAHOO.COM
