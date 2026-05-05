@@ -63,7 +63,7 @@ Graduate Research Assistant at KSU, and building toward my PL-300 and CHDA certi
 - Advanced DAX: 7-day rolling cases, peak single-day cases, time intelligence functions
 - Star schema data model with custom DimDate table for accurate time-based drill-down analysis
 
-**[▶ Live Dashboard](https://app.powerbi.com/groups/me/reports/463aa0af-3f14-457e-9cf3-e257f63c8d8d/a22aa79714737ede2791?experience=power-bi)** · **[📁 Repo](https://github.com/Nbhandari3/powerbi-project)**
+**[▶ Live Dashboard](https://app.powerbi.com/groups/me/reports/463aa0af-3f14-457e-9cf3-e257f63c8d8d/a22aa79714737ede2791?experience=power-bi)** · **[📁 Repo](https://github.com/Nbhandari3/COVID19_POWERBI)**
 
 ---
 
